@@ -1,31 +1,3 @@
-/* *{
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}.container {
-  width: 100%;
-  padding: 0 200px;
-  height: 500px;
-  background-color: black;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-
-  align-items: flex-start;
-  gap: 10px;
-}
-.container_element {
-  width: 100px;
-  height: 100px;
-  background-color: blue;
-  color: white;
-  font-size: 50px;
-}
-.elementOne{
-  order: 5;
-  flex-grow: 1;
-} */
 
 body{
   background-color: yellow;
